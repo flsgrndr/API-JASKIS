@@ -2,36 +2,36 @@
 // paste the MongoDB commands you use underneath each prompt
 
 // GETTING STARTED
-// 1. Create a database called jaskis
+// 1. Create a database called jaskis - DONE
 
 
-// 2. Create a collection called bounties
+// 2. Create a collection called bounties - DONE
 
 
 // ADD THE ANIMAL BOUNTIES
-// 1. Insert the given "Thanoceros" bounty object
+// 1. Insert the given "Thanoceros" bounty object - DONE
 
 
-// 2. Query for all bounties in the bounties collection
+// 2. Query for all bounties in the bounties collection - DONE
 
 
-// 3. Insert many bounties at once using the given objects
+// 3. Insert many bounties at once using the given objects - DONE
 
 // MANAGE THE DATABASE
 // Queries
-// 1. Query for all bounties in the Grasslands
+// 1. Query for all bounties in the Grasslands - DONE
 
-// 2. Query for all bounties with a reward worth 10000 or more
+// 2. Query for all bounties with a reward worth 10000 or more - DONE
 
-// 3. Query for all bounties, but exclude the client attribute from being shown
+// 3. Query for all bounties, but exclude the client attribute from being shown - DONE
 
-// 4. Query for a Groundhog in the Woodlands
+// 4. Query for a Groundhog in the Woodlands - DONE
 
 // Update and Delete
-// 1. Update the reward for Polarwind to 10000
+// 1. Update the reward for Polarwind to 10000 - DONE
 
-// 2. Remove Lokinkajou
+// 2. Remove Lokinkajou - DONE
 
-// 3. Delete all bounties sent by Songbird
+// 3. Delete all bounties sent by Songbird - DONE
 
-// 4. Update all captured statuses to true
+// 4. Update all captured statuses to true - DONE
